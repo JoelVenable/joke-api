@@ -1,0 +1,42 @@
+
+body {
+  background-color: navy;
+}
+
+
+.wrapper {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+h1 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid gray;
+  margin-top: 1rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+h4 {
+  text-align: center;
+}
+
+button {
+  padding: .5rem 1rem;
+  margin: 1rem;
+  background-color: goldenrod;
+}
